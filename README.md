@@ -11,8 +11,8 @@ O projeto foi feito com as seguintes tecnologias:
 {...}
 
 - [Typescript](https://www.typescriptlang.org)
-- [React Hook](https://pt-br.reactjs.org/docs/hooks-intro.html)
-- useState 
-- UseEffect 
-- useContext
 - [Axios](https://blog.logrocket.com/how-to-make-http-requests-like-a-pro-with-axios/)
+- [React Hook](https://pt-br.reactjs.org/docs/hooks-intro.html)
+- ###useState 
+- ###UseEffect 
+- ###useContext
