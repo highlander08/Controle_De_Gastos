@@ -8,7 +8,6 @@ O projeto foi feito com as seguintes tecnologias:
 
 - [ReactJS](https://pt-br.reactjs.org/)
 - [Styled-Components](https://styled-components.com/)
-{...}
 
 - [Typescript](https://www.typescriptlang.org)
 - [Axios](https://blog.logrocket.com/how-to-make-http-requests-like-a-pro-with-axios/)
